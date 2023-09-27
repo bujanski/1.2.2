@@ -1,0 +1,13 @@
+#bio{
+    width: 400px;
+    background-color: #bbbbbb;
+    border: darkgray 2px solid;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.flag {
+   max-height: 40px;
+}
+.biopic{
+    width: 100px;
+}
